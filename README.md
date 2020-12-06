@@ -1,4 +1,4 @@
-### Hi! I'm Mattia, a 21y.o Computer Science student [website] :sunglasses:
+### Hi! I'm Mattia, a 21y.o Computer Science student [Facebook][website] :sunglasses:
 
 ### Contact me on:
 [<img src="https://github.com/iconic/open-iconic/svg/globe.svg" alt="globe">][website]
