@@ -1,5 +1,6 @@
-### Hi! I'm Mattia, a 21y.o Computer Science student. :sunglasses:
+### Hi! I'm Mattia, a 21y.o Computer Science student [website] :sunglasses:
 
+[<img align="left" alt="matthew" width="22px" src"https://www.facebook.com/matthewsamadj/" />][website]
 <!--
 **mattiamori/mattiamori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
