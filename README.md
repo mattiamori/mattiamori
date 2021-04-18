@@ -6,6 +6,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattiamori&theme=dark&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://img.shields.io/badge/OS-Windows10-informational?style=for-the-badge&logo=windows&logoColor=white&color=00599C)
+![](https://img.shields.io/badge/OS-MacOS-informational?style=for-the-badge&logo=apple&logoColor=white&color=00599C)
 
 
 
