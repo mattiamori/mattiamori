@@ -3,7 +3,7 @@
 
 <!-- Actual text -->
 
-- You can find me on [![Facebook]][1].
+- You can find me on [Facebook][1].
 
 <!-- Icons -->
 
