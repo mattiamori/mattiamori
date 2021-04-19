@@ -19,5 +19,5 @@
 
 📝 Editor
 
-![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=for-the-badge&logo=vscode&logoColor=white&color=007ACC)
+![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=007ACC)
 
