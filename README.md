@@ -1,5 +1,5 @@
 ### Hi! I'm Mattia, a 21y.o Computer Science student :sunglasses:
-###
+### Something About Me
 
 :bar_chart: GitHub Stats
 
@@ -37,4 +37,6 @@
 ![](https://img.shields.io/badge/-IntelliJ_IDEA-informational?style=for-the-badge&logo=intellij-idea&logoColor=white&color=000000)
 
 🎼 Audio Tools
+
+
 ![](https://img.shields.io/badge/-Ableton_Live-informational?style=for-the-badge&logo=ableton-live&logoColor=white&color=000000)
