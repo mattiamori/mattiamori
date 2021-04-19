@@ -1,5 +1,5 @@
 ### Hi! I'm Mattia, a 21y.o Computer Science student :sunglasses:
-### 🙋‍♂️ Something About Me
+🙋‍♂️ Something About Me
 ---
 
 <!-- Actual text -->
