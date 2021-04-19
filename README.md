@@ -1,5 +1,6 @@
 ### Hi! I'm Mattia, a 21y.o Computer Science student :sunglasses:
 ### 🙋‍♂️ Something About Me
+---
 
 <!-- Actual text -->
 
@@ -42,7 +43,7 @@
 ![](https://img.shields.io/badge/-HTML5-informational?style=for-the-badge&logo=html5&logoColor=white&color=E34F26)
 ![](https://img.shields.io/badge/-CSS3-informational?style=for-the-badge&logo=css3&logoColor=white&color=1572b6)
 
-📝 Editor
+📝 Editors
 ---
 
 ![](https://img.shields.io/badge/-Visual_Studio_Code-informational?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=007ACC)
