@@ -7,7 +7,7 @@
 
 <!-- Icons -->
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[1.2]: https://simpleicons.org/icons/facebook.svg
 
 <!-- Links to your social media accounts -->
 
