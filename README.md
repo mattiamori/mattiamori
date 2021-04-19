@@ -7,7 +7,7 @@
 
 <!-- Icons -->
 
-[1.2]: https://i.imgur.com/mWO1ozE.png
+[1.2]: https://i.imgur.com/mWO1ozE.png (facebook icon without padding)
 
 <!-- Links to your social media accounts -->
 
