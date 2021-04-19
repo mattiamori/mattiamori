@@ -5,6 +5,13 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattiamori&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattiamori&theme=dark&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
+
+🧰 Currently Learning
+
+
+![](https://img.shields.io/badge/-Angular-informational?style=for-the-badge&logo=angular&logoColor=white&color=dd0031)
+
+
 :desktop_computer: OS
 
 
@@ -19,5 +26,5 @@
 
 📝 Editor
 
-![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=007ACC)
+![](https://img.shields.io/badge/-Visual_Studio_Code-informational?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=007ACC)
 
