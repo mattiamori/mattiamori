@@ -27,6 +27,7 @@
 
 
 ![](https://img.shields.io/badge/-HTML5-informational?style=for-the-badge&logo=html5&logoColor=white&color=E34F26)
+![](https://img.shields.io/badge/-CSS3-informational?style=for-the-badge&logo=css3&logoColor=white&color=1572b6)
 
 📝 Editor
 
