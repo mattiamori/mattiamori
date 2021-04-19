@@ -3,13 +3,14 @@
 
 <!-- Actual text -->
 
-- You can find me on [Facebook][1].
+- You can find me on [Facebook][1], [Instagram][2], or mail me at <mattia.mori.12@gmail.com>(mailto:mattia.mori.12@gmai.com)
 
 <!-- Icons -->
 
 <!-- Links to your social media accounts -->
 
 [1]: https://www.facebook.com/matthewsamadj/
+[2]: https://www.instagram.com/matthewsama_/
 
 :bar_chart: GitHub Stats
 
