@@ -8,14 +8,14 @@
 :desktop_computer: OS
 
 
-![](https://img.shields.io/badge/OS-Windows_10-informational?style=for-the-badge&logo=windows&logoColor=white&color=00599C)
-![](https://img.shields.io/badge/OS-MacOS-informational?style=for-the-badge&logo=apple&logoColor=white&color=000000)
+![](https://img.shields.io/badge/-Windows_10-informational?style=for-the-badge&logo=windows&logoColor=white&color=00599C)
+![](https://img.shields.io/badge/-MacOS-informational?style=for-the-badge&logo=apple&logoColor=white&color=000000)
 
 ⌨️ Code
 
 
-![](https://img.shields.io/badge/Code-Java-informational?style=for-the-badge&logo=java&logoColor=white&color=FF4D00)
-![](https://img.shields.io/badge/Code-Golang-informational?style=for-the-badge&logo=go&logoColor=white&color=00ADD8)
+![](https://img.shields.io/badge/-Java-informational?style=for-the-badge&logo=java&logoColor=white&color=FF4D00)
+![](https://img.shields.io/badge/-Golang-informational?style=for-the-badge&logo=go&logoColor=white&color=00ADD8)
 
 📝 Editor
 
