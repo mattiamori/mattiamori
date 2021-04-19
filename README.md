@@ -23,8 +23,13 @@
 ![](https://img.shields.io/badge/-Java-informational?style=for-the-badge&logo=java&logoColor=white&color=FF4D00)
 ![](https://img.shields.io/badge/-Golang-informational?style=for-the-badge&logo=go&logoColor=white&color=00ADD8)
 
+🖼️ Frontend
+
+
+![](https://img.shields.io/badge/-HTML5-informational?style=for-the-badge&logo=html5&logoColor=white&color=E34F26)
+
 📝 Editor
 
 ![](https://img.shields.io/badge/-Visual_Studio_Code-informational?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=007ACC)
-![](https://img.shields.io/badge/-Visual_Studio_Code-informational?style=for-the-badge&logo=intellij-idea&logoColor=white&color=000000)
+![](https://img.shields.io/badge/-IntelliJ_IDEA-informational?style=for-the-badge&logo=intellij-idea&logoColor=white&color=000000)
 
