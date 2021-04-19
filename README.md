@@ -11,7 +11,6 @@
 
 ![](https://img.shields.io/badge/-Angular-informational?style=for-the-badge&logo=angular&logoColor=white&color=dd0031)
 
-
 :desktop_computer: OS
 
 
@@ -27,4 +26,5 @@
 📝 Editor
 
 ![](https://img.shields.io/badge/-Visual_Studio_Code-informational?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=007ACC)
+![](https://img.shields.io/badge/-Visual_Studio_Code-informational?style=for-the-badge&logo=intellij-idea&logoColor=white&color=000000)
 
