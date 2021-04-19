@@ -14,8 +14,10 @@
 ⌨️ Code
 
 
-![](https://img.shields.io/badge/Code-Java-informational?style=for-the-badge&logo=java&logoColor=white&color=00599C)
+![](https://img.shields.io/badge/Code-Java-informational?style=for-the-badge&logo=java&logoColor=white&color=FF4D00)
 ![](https://img.shields.io/badge/Code-Golang-informational?style=for-the-badge&logo=go&logoColor=white&color=00ADD8)
 
+📝 Editor
 
+![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=for-the-badge&logo=visualstudiocode&logoColor=white&color=007ACC)
 
