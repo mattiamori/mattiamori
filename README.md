@@ -7,7 +7,7 @@
 
 <!-- Icons -->
 
-[1.2]: https://simpleicons.org/icons/facebook.svg
+[1.2]: https://i.imgur.com/mWO1ozE.png
 
 <!-- Links to your social media accounts -->
 
