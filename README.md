@@ -24,6 +24,7 @@
 ---
 
 ![](https://img.shields.io/badge/-Angular-informational?style=for-the-badge&logo=angular&logoColor=white&color=dd0031)
+![](https://img.shields.io/badge/-Vue.js-informational?style=for-the-badge&logo=vue.js&logoColor=white&color=4FC08D)
 
 :desktop_computer: OS
 ---
