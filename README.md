@@ -24,6 +24,7 @@
 ---
 
 ![](https://img.shields.io/badge/-React-informational?style=for-the-badge&logo=react&logoColor=white&color=61DAFB)
+![](https://img.shields.io/badge/-Flutter-informational?style=for-the-badge&logo=flutter&logoColor=white&color=#02569B)
 
 :desktop_computer: OS
 ---
