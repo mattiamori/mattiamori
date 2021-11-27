@@ -23,7 +23,6 @@
 🧰 Currently Learning
 ---
 
-![](https://img.shields.io/badge/-React-informational?style=for-the-badge&logo=react&logoColor=white&color=61DAFB)
 ![](https://img.shields.io/badge/-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=3776ab)
 
 :desktop_computer: OS
