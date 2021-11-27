@@ -19,11 +19,12 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattiamori&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattiamori&theme=dark&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<!--
 🧰 Currently Learning
 ---
 
 ![](https://img.shields.io/badge/-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=3776ab)
+-->
 
 :desktop_computer: OS
 ---
@@ -35,7 +36,7 @@
 ---
 
 ![](https://img.shields.io/badge/-Java-informational?style=for-the-badge&logo=java&logoColor=white&color=FF4D00)
-![](https://img.shields.io/badge/-Golang-informational?style=for-the-badge&logo=go&logoColor=white&color=00ADD8)
+![](https://img.shields.io/badge/-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=3776ab)
 
 🖼️ Frontend
 ---
