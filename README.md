@@ -5,7 +5,7 @@
 <!-- Actual text -->
 
 - You can find me on [Facebook][1], [Instagram][2], or mail me at [mattia.mori.12@gmail.com](mailto:mattia.mori.12@gmai.com)
-- I'm also a DJ and Producer, my dj name is Matthew Sama, and you can hear something of mine on [Beatport][3]
+- I'm also a DJ and Producer and my dj name is Matthew Sama. You can hear something on [Beatport][3]
 
 <!-- Links to my social media accounts -->
 
