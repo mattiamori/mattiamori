@@ -37,10 +37,7 @@
 
 ![](https://img.shields.io/badge/-Java-informational?style=for-the-badge&logo=java&logoColor=white&color=FF4D00)
 ![](https://img.shields.io/badge/-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=3776ab)
-
-🖼️ Frontend
----
-
+![](https://img.shields.io/badge/-LUA-informational?style=for-the-badge&logo=lua&logoColor=white&color=0000FF)
 ![](https://img.shields.io/badge/-HTML5-informational?style=for-the-badge&logo=html5&logoColor=white&color=E34F26)
 ![](https://img.shields.io/badge/-CSS3-informational?style=for-the-badge&logo=css3&logoColor=white&color=1572b6)
 
