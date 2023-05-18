@@ -38,7 +38,7 @@
 ![](https://img.shields.io/badge/-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=3776ab)
 ![](https://img.shields.io/badge/-LUA-informational?style=for-the-badge&logo=lua&logoColor=white&color=2C2D72)
 ![](https://img.shields.io/badge/-JS-informational?style=for-the-badge&logo=javascript&logoColor=black&color=f7df1e)
-![](https://img.shields.io/badge/-C#-informational?style=for-the-badge&logo=csharp&logoColor=white&color=239120)
+![](https://img.shields.io/badge/-CS-informational?style=for-the-badge&logo=csharp&logoColor=white&color=239120)
 
 📝 Editors
 ---
