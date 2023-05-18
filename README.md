@@ -32,12 +32,11 @@
 ![](https://img.shields.io/badge/-Windows_10-informational?style=for-the-badge&logo=windows&logoColor=white&color=00599C)
 ![](https://img.shields.io/badge/-MacOS-informational?style=for-the-badge&logo=apple&logoColor=white&color=000000)
 
-⌨️ Code
+⌨️ Code Stuffs
 ---
 
-![](https://img.shields.io/badge/-Java-informational?style=for-the-badge&logo=java&logoColor=white&color=FF4D00)
 ![](https://img.shields.io/badge/-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=3776ab)
-![](https://img.shields.io/badge/-LUA-informational?style=for-the-badge&logo=lua&logoColor=white&color=0000FF)
+![](https://img.shields.io/badge/-LUA-informational?style=for-the-badge&logo=lua&logoColor=white&color=2C2D72)
 ![](https://img.shields.io/badge/-JS-informational?style=for-the-badge&logo=javascript&logoColor=black&color=f7df1e)
 
 📝 Editors
