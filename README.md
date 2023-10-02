@@ -32,7 +32,7 @@
 ![](https://img.shields.io/badge/-Windows_10-informational?style=for-the-badge&logo=windows&logoColor=white&color=00599C)
 ![](https://img.shields.io/badge/-MacOS-informational?style=for-the-badge&logo=apple&logoColor=white&color=000000)
 
-⌨️ Code Stuffs
+⌨️ Things I Code With
 ---
 
 ![](https://img.shields.io/badge/-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=3776ab)
