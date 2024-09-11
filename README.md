@@ -1,17 +1,14 @@
-### Hi! I'm Mattia, a 21y.o Computer Science student :sunglasses:
+### Hi! I'm Mattia, a 25y.o Computer Science student :sunglasses:
 🙋‍♂️ Something About Me
 ---
 
 <!-- Actual text -->
 
 - You can find me on [Facebook][1], [Instagram][2], or mail me at [mattia.mori.12@gmail.com](mailto:mattia.mori.12@gmai.com)
-- I'm also a DJ and Producer and my dj name is Matthew Sama. You can hear something on [Beatport][3]
 
 <!-- Links to my social media accounts -->
 
-[1]: https://www.facebook.com/matthewsamadj/
-[2]: https://www.instagram.com/matthewsama_/
-[3]: https://www.beatport.com/artist/matthew-sama/803726
+[1]: https://www.instagram.com/mattiamori_/
 
 :bar_chart: GitHub Stats
 ---
