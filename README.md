@@ -8,7 +8,7 @@
 
 <!-- Links to my social media accounts -->
 
-[1]: https://www.instagram.com/mattiamori_/
+[1]: https://www.instagram.com/mattiamori__/
 
 :bar_chart: GitHub Stats
 ---
