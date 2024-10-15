@@ -1,4 +1,4 @@
-### Hi! I'm Mattia, a 25y.o Computer Science student :sunglasses:
+### Hi! I'm Mattia!
 🙋‍♂️ Something About Me
 ---
 
