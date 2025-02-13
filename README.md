@@ -16,19 +16,6 @@
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mattiamori&theme=dark&langs_count=5&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-🧰 Currently Learning
----
-
-![](https://img.shields.io/badge/-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=3776ab)
--->
-
-:desktop_computer: OS
----
-
-![](https://img.shields.io/badge/-Windows_10-informational?style=for-the-badge&logo=windows&logoColor=white&color=00599C)
-![](https://img.shields.io/badge/-MacOS-informational?style=for-the-badge&logo=apple&logoColor=white&color=000000)
-
 ⌨️ Things I Code With
 ---
 
