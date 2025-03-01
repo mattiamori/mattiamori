@@ -1,6 +1,4 @@
 ### Hi! I'm Mattia!
-🙋‍♂️ Something About Me
----
 
 <!-- Actual text -->
 
